@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: DiegoG](https://img.shields.io/twitter/follow/AominDki?style=social)](https://twitter.com/AominDki)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegogciafdez/)](https://www.linkedin.com/in/diego-garcía-2916b2144/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Diego-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegogciafdez/)](https://www.linkedin.com/in/diegogciafdez/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/AomineD?label=follow&style=social)](https://github.com/AomineD)
 
 
